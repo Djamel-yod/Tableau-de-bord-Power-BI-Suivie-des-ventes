@@ -3,7 +3,8 @@
 <img width="1000" alt="Capture" src="https://github.com/user-attachments/assets/69be2a16-88c2-4c1a-90ae-83837565c9d8">
 
 
-A travers ce projet, je montre mes compétences dans la conception de visualisations interactives de données avec **PoweBI**. Je montre également mes compétence avec **PowerQuery**, la création de **Data Model** et en programmation en **langage DAX**.
+A travers ce projet, je montre mes compétences dans la conception de visualisations interactives de données avec **PoweBI**. Je montre également mes compétences en prétraitement des données avec **PowerQuery**, dans la création de **Data Model** et en programmation en **langage DAX**.
+
 
 # Contexte
 
