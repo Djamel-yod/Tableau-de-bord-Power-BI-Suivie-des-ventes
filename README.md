@@ -26,6 +26,8 @@ Les responsables de l'entreprise veulent également savoir quelle est la progres
 
 **-** Création du Data Model en établissant les relations existantes entre les tables 
 
+**-** Création de nouvelles tables, notamment la table de dates 
+
 **-** Création de nouvelles mesures ou indicateurs avec le langage Dax
 
 **-** Mise en place du tableau de bord
