@@ -32,8 +32,7 @@ Les responsables de l'entreprise veulent également savoir quelle est la progres
 
 # Outils
 
-<img width="165" alt="Capture_PowerBI" src="https://github.com/Djamel-yod/Power-BI--Segmentation-des-ventes/assets/60408184/f5cb5c53-8158-4943-9eb2-06b6252d9515">
-
+<img width="165" alt="Capture_PowerBI" src="https://github.com/user-attachments/assets/b6a69381-c3a9-4ea0-bada-bb922a388b48">
 
 
 
