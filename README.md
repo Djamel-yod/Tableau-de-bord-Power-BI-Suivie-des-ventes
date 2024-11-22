@@ -12,9 +12,9 @@ Afin de faire le bilan de ses ventes depuis le début de l'année 2024 et de mes
 
 **-** Le chiffre d'affaires annuel en 2024  
 
-**-** Les montants et les quantités vendus par les commerciales ? 
+**-** Les montants et les quantités vendus par les commerciales  
 
-**-** Les quantités vendues pour chaque mois de l'année ? 
+**-** Les quantités vendues pour chaque mois de l'année  
 
 Les responsables de l'entreprise veulent également savoir quelle est la progression des ventes par rapport à 2023 à la même période.
 
